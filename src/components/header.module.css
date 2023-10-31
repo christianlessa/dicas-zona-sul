@@ -1,0 +1,33 @@
+.center {
+  background-color: darksalmon;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0 2%;
+  align-items: center;
+}
+
+.logo img {
+  width: 80px;
+  height: auto;
+}
+
+.center p {
+  margin: 0;
+  font-family: 'Playpen Sans', cursive;
+  color: aliceblue;
+}
+
+.menu {
+  color: brown;
+  text-align: right;
+}
+
+.menu a {
+  text-decoration: none;
+  color: aqua;
+  font-weight: bold;
+  margin-right: 15px;
+  padding-right: 30px;
+}
